@@ -1,1 +1,93 @@
+# SHARED HOSTS - START
+#Home subnet - 192.168.1.0/24
+192.168.1.1	USG.lan.bernicchi.com
+192.168.1.2	US8-Family-Room.lan.bernicchi.com	US8-Family-Room
+192.168.1.3	US8-Front-Bedroom.lan.bernicchi.com	US8-Front-Bedroom
+192.168.1.4	UAP-AC-PRO.lan.bernicchi.com	UAP-AC-PRO
+192.168.1.5	UAP-AC-IW.lan.bernicchi.com	UAP-AC-IW
+192.168.1.6	Synology.lan.bernicchi.com	Synology
+192.168.1.7	Fing-Box.lan.bernicchi.com	Fing-Box
+192.168.1.8	Philips-Hue-Bridge.lan.bernicchi.com	Philips-Hue-Bridge
+192.168.1.9	OBi200-VoIP-Adapter.lan.bernicchi.com	OBi200-VoIP-Adapter
+192.168.1.10	Nest-Thermostat.lan.bernicchi.com	Nest-Thermostat
+192.168.1.11	iHome-SmartPlug.lan.bernicchi.com	iHome-SmartPlug
+192.168.1.12	HP3DBB19.lan.bernicchi.com	HP3DBB19
+192.168.1.13	Ring-Video-Doorbell.lan.bernicchi.com	Ring-Video-Doorbell
+192.168.1.14	Ring-Spotlight-Cam.lan.bernicchi.com	Ring-Spotlight-Cam
+192.168.1.15	Ring-Chime-Pro.lan.bernicchi.com	Ring-Chime-Pro
+192.168.1.16	amazon-echo.lan.bernicchi.com	amazon-echo
+192.168.1.17	amazon-firetv2.lan.bernicchi.com	amazon-firetv2
+192.168.1.18	amazon-firetv.lan.bernicchi.com	amazon-firetv
+192.168.1.19	Hisense-65TV-LAN.lan.bernicchi.com	Hisense-65TV-LAN
+192.168.1.20	Hisense-65TV-WLAN.lan.bernicchi.com	Hisense-65TV-WLAN
+192.168.1.21	Google-Home.lan.bernicchi.com	Google-Home
+192.168.1.22	Apple-TV-Family-Room-LAN.lan.bernicchi.com	Apple-TV-Family-Room-LAN
+192.168.1.23	Apple-TV-Family-Room-WLAN.lan.bernicchi.com	Apple-TV-Family-Room-WLAN
+192.168.1.24	Apple-TV-Bedroom-LAN.lan.bernicchi.com	Apple-TV-Bedroom-LAN
+192.168.1.25	Pauls-iMac-WLAN.lan.bernicchi.com	Pauls-iMac-WLAN
+192.168.1.26	EDRS-MBP15-WLAN.lan.bernicchi.com	EDRS-MBP15-WLAN
+192.168.1.27	Jillians-MBP13.lan.bernicchi.com	Jillians-MBP13
+192.168.1.28	Luca-MBP.lan.bernicchi.com	Luca-MBP
+192.168.1.29	Apple-TV-Bedroom-WLAN.lan.bernicchi.com	Apple-TV-Bedroom-WLAN
+192.168.1.30	raspberrypi.lan.bernicchi.com	raspberrypi
+192.168.1.31	US24-Front-Bedroom.lan.bernicchi.com	US24-Front-Bedroom
+192.168.1.32	dietpi4.lan.bernicchi.com	dietpi4
+#192.168.3.11   dietpi4.lan.bernicchi.com   dietpi4
+192.168.1.33	UAP-AC-PROFrontBedroom.lan.bernicchi.com	UAP-AC-PROFrontBedroom
+192.168.1.34	Power-Mac-G3-300.lan.bernicchi.com	Power-Mac-G3-300
+192.168.1.35	Macintosh-Iici.lan.bernicchi.com	Macintosh-Iici
+192.168.1.36	Quadra-950.lan.bernicchi.com	Quadra-950
+192.168.1.37	Quadra-700.lan.bernicchi.com	Quadra-700
+192.168.1.38	Power-Macintosh-7200.lan.bernicchi.com	Power-Macintosh-7200
+192.168.1.39	Power-Macintosh-7300.lan.bernicchi.com	Power-Macintosh-7300
+192.168.1.40	Macintosh-SE30.lan.bernicchi.com	Macintosh-SE30
+192.168.1.41	Performa-636CD.lan.bernicchi.com	Performa-636CD
+192.168.1.42	Power-Mac-G4-LAN.lan.bernicchi.com	Power-Mac-G4-LAN
+192.168.1.42	Apple-Iigs.lan.bernicchi.com	Apple-Iigs
+192.168.1.44	Cube.lan.bernicchi.com	Cube
+192.168.1.45	TAM.lan.bernicchi.com	TAM
+192.168.1.50	esxi-mini.lan.bernicchi.com	esxi-mini
+192.168.1.51	photon.lan.bernicchi.com	photon
+192.168.1.52	WIN10-PRO.lan.bernicchi.com	WIN10-PRO
+192.168.1.53	WIN-SVR.lan.bernicchi.com	WIN-SVR
+192.168.1.54	WIN2016-SVR.lan.bernicchi.com	WIN2016-SVR
+192.168.1.55	debian.lan.bernicchi.com	debian
+192.168.1.56	ubuntu.lan.bernicchi.com	ubuntu
+192.168.1.57	macmini.lan.bernicchi.com	macmini
+192.168.1.58	pfsense.lan.bernicchi.com	pfsense
+192.168.1.59	DietPi.lan.bernicchi.com	DietPi
+192.168.1.60	macipgw-vm.lan.bernicchi.com	macipgw-vm
+192.168.1.61	freenas.lan.bernicchi.com	freenas
+192.168.1.62	vsphere.lan.bernicchi.com	vsphere
+192.168.1.62    vsphere.local       vsphere
+192.168.1.63	idrac-r620.lan.bernicchi.com	idrac-r620
+192.168.1.64	esxi-r620.lan.bernicchi.com	esxi-r620
+192.168.1.68	XPEnology-VA.lan.bernicchi.com	XPEnology-VA
+192.168.1.69	ubuntu1910.lan.bernicchi.com	ubuntu1910-va
+192.168.1.71	ubuntu-va.lan.bernicchi.com	ubuntu-va
+192.168.1.72	centos.lan.bernicchi.com	centos
+192.168.1.73	solaris.lan.bernicchi.com	solaris
+192.168.1.74	macos-vm.lan.bernicchi.com	macos-vm
+192.168.1.75	esxi-R520.lan.bernicchi.com	esxi-R520
+192.168.1.76	idrac-r520.lan.bernicchi.com	idrac-r520
+192.168.1.77	esxi-R520-nic2.lan.bernicchi.com	esxi-R520-nic2
+192.168.1.78	openmanage.lan.bernicchi.com	openmanage
+192.168.1.79	irix.lan.bernicchi.com	irix
+192.168.1.80	debian2.lan.bernicchi.com	debian2
+192.168.1.81	esxi-r520-vmotion.lan.bernicchi.com	esxi-r520-vmotion
+192.168.1.82	fedora.lan.bernicchi.com	fedora
+192.168.1.83	freebsd.lan.bernicchi.com	freebsd
+
+#Work subnet (site VPN) - 192.168.0.0/24
+192.168.0.3	esxi-xserve.lan.bernicchi.com	esxi-xserve
+192.168.0.4	Xserve-LOM.lan.bernicchi.com	Xserve-LOM
+192.168.0.67	esxi-R710.lan.bernicchi.com	esxi-R710
+192.168.0.68	idrac-r710.lan.bernicchi.com	idrac-r710
+192.168.0.69	esxi-R710-nic2.lan.bernicchi.com	esxi-R710-nic2
+192.168.0.70	esxi-R710-nic3.lan.bernicchi.com	esxi-R710-nic3
+192.168.0.71	esxi-R710-nic4.lan.bernicchi.com	esxi-R710-nic4
+#192.168.0.84    xpenology.lan.bernicchi.com         xpenology
+
+# SHARED HOSTS - END
+
 
